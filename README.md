@@ -12,7 +12,7 @@ A Go library for parsing Counter-Strike 2 and CS:GO demos.
 ### Install Dependencies
 
 ```bash
-go mod tidy
+go get -u github.com/markus-wa/demoinfocs-golang/v5/pkg/demoinfocs
 ```
 
 ## Usage
